@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">navigationView</string>
+    <string name="navi_chioce1">选项1</string>
+    <string name="navi_chioce2">选项2</string>
+    <string name="navi_chioce3">选项3</string>
+    <string name="navi_chioce4">选项4</string>
+    <string name="navi_chioce5">选项5</string>
+    <string name="navi_chioce6">选项6</string>
+</resources>
