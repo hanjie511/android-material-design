@@ -1,6 +1,7 @@
 # android-material-design
 此次的demo主要演示了如何使用Google官方提供的material-design设计库来帮助我们更加快速的、高效的、美观的开发我们的Android应用。该demo中使用了material-design中的Toolbar来代替传统的手机页面顶部的ActionBar，使用了NavigationView来来简化了页面侧滑菜单繁重的编写过程。
 # 项目实现效果图
+![](https://github.com/hanjie511/android-material-design1/raw/master/test1.gif)  
 ## 侧滑页面布局代码（其中包括主界面的布页面）：
 ```java
 <android.support.v4.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
