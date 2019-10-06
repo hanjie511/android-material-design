@@ -4,4 +4,5 @@ Android的material-design（NavigationView、ToolBar、ButtonNavigationView、Ap
 ## 项目展示
 ![navigationView](https://github.com/hanjie511/android-material-design1/blob/master/navigationView.gif)
 ![buttonNavigationView](https://github.com/hanjie511/android-material-design1/blob/master/buttonNavigationView.gif)
+![test4](https://github.com/hanjie511/android-material-design1/blob/master/test4.gif)
 
