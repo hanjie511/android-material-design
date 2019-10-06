@@ -5,7 +5,7 @@ Android的material-design（NavigationView、ToolBar、ButtonNavigationView、Ap
 ![navigationView](https://github.com/hanjie511/android-material-design1/blob/master/navigationView.gif)
 ![buttonNavigationView](https://github.com/hanjie511/android-material-design1/blob/master/buttonNavigationView.gif)
 ![loadmore](https://github.com/hanjie511/android-material-design1/blob/master/loadmore.gif)
-![collapsingLayout](https://github.com/hanjie511/android-material-design1/blob/master/collapsingLayout.gif)
+![refresh](https://github.com/hanjie511/android-material-design1/blob/master/Refresh.gif)
 ![searchView](https://github.com/hanjie511/android-material-design1/blob/master/searchView.gif)
 ### NavigationView
 如第一张图片所展示的功能一样，它主要实现了侧滑导航菜单栏。它位于android.support.design.widget包中。
